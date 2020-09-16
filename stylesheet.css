@@ -22,3 +22,9 @@ main{
   top:5px;
   box-shadow:none;
 }
+
+.introduction h1{
+  font-weight:normal;
+  padding:100px 200px;
+  color:white;
+}  
